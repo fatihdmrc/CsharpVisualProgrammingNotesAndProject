@@ -1,0 +1,10 @@
+D:\Görsel Programlama\Görsel Programlama Hafta 3 Kronometre\bin\Debug\Görsel Programlama Hafta 3 Kronometre.exe.config
+D:\Görsel Programlama\Görsel Programlama Hafta 3 Kronometre\bin\Debug\Görsel Programlama Hafta 3 Kronometre.exe
+D:\Görsel Programlama\Görsel Programlama Hafta 3 Kronometre\bin\Debug\Görsel Programlama Hafta 3 Kronometre.pdb
+D:\Görsel Programlama\Görsel Programlama Hafta 3 Kronometre\obj\Debug\Görsel Programlama Hafta 3 Kronometre.csproj.AssemblyReference.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 3 Kronometre\obj\Debug\Görsel_Programlama_Hafta_3_Kronometre.Form1.resources
+D:\Görsel Programlama\Görsel Programlama Hafta 3 Kronometre\obj\Debug\Görsel_Programlama_Hafta_3_Kronometre.Properties.Resources.resources
+D:\Görsel Programlama\Görsel Programlama Hafta 3 Kronometre\obj\Debug\Görsel Programlama Hafta 3 Kronometre.csproj.GenerateResource.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 3 Kronometre\obj\Debug\Görsel Programlama Hafta 3 Kronometre.csproj.CoreCompileInputs.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 3 Kronometre\obj\Debug\Görsel Programlama Hafta 3 Kronometre.exe
+D:\Görsel Programlama\Görsel Programlama Hafta 3 Kronometre\obj\Debug\Görsel Programlama Hafta 3 Kronometre.pdb

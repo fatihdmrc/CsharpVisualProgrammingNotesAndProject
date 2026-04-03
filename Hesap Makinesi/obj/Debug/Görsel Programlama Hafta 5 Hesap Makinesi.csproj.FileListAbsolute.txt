@@ -1,0 +1,10 @@
+D:\Görsel Programlama\Görsel Programlama Hafta 5 Hesap Makinesi\bin\Debug\Görsel Programlama Hafta 5 Hesap Makinesi.exe.config
+D:\Görsel Programlama\Görsel Programlama Hafta 5 Hesap Makinesi\bin\Debug\Görsel Programlama Hafta 5 Hesap Makinesi.exe
+D:\Görsel Programlama\Görsel Programlama Hafta 5 Hesap Makinesi\bin\Debug\Görsel Programlama Hafta 5 Hesap Makinesi.pdb
+D:\Görsel Programlama\Görsel Programlama Hafta 5 Hesap Makinesi\obj\Debug\Görsel Programlama Hafta 5 Hesap Makinesi.csproj.AssemblyReference.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 5 Hesap Makinesi\obj\Debug\Görsel_Programlama_Hafta_5_Hesap_Makinesi.Form1.resources
+D:\Görsel Programlama\Görsel Programlama Hafta 5 Hesap Makinesi\obj\Debug\Görsel_Programlama_Hafta_5_Hesap_Makinesi.Properties.Resources.resources
+D:\Görsel Programlama\Görsel Programlama Hafta 5 Hesap Makinesi\obj\Debug\Görsel Programlama Hafta 5 Hesap Makinesi.csproj.GenerateResource.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 5 Hesap Makinesi\obj\Debug\Görsel Programlama Hafta 5 Hesap Makinesi.csproj.CoreCompileInputs.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 5 Hesap Makinesi\obj\Debug\Görsel Programlama Hafta 5 Hesap Makinesi.exe
+D:\Görsel Programlama\Görsel Programlama Hafta 5 Hesap Makinesi\obj\Debug\Görsel Programlama Hafta 5 Hesap Makinesi.pdb

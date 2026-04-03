@@ -1,0 +1,10 @@
+D:\Görsel Programlama\Görsel Programlama Hafta 4 Analog Saat\bin\Debug\Görsel Programlama Hafta 4 Analog Saat.exe.config
+D:\Görsel Programlama\Görsel Programlama Hafta 4 Analog Saat\bin\Debug\Görsel Programlama Hafta 4 Analog Saat.exe
+D:\Görsel Programlama\Görsel Programlama Hafta 4 Analog Saat\bin\Debug\Görsel Programlama Hafta 4 Analog Saat.pdb
+D:\Görsel Programlama\Görsel Programlama Hafta 4 Analog Saat\obj\Debug\Görsel Programlama Hafta 4 Analog Saat.csproj.AssemblyReference.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 4 Analog Saat\obj\Debug\Görsel_Programlama_Hafta_4_Analog_Saat.Form1.resources
+D:\Görsel Programlama\Görsel Programlama Hafta 4 Analog Saat\obj\Debug\Görsel_Programlama_Hafta_4_Analog_Saat.Properties.Resources.resources
+D:\Görsel Programlama\Görsel Programlama Hafta 4 Analog Saat\obj\Debug\Görsel Programlama Hafta 4 Analog Saat.csproj.GenerateResource.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 4 Analog Saat\obj\Debug\Görsel Programlama Hafta 4 Analog Saat.csproj.CoreCompileInputs.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 4 Analog Saat\obj\Debug\Görsel Programlama Hafta 4 Analog Saat.exe
+D:\Görsel Programlama\Görsel Programlama Hafta 4 Analog Saat\obj\Debug\Görsel Programlama Hafta 4 Analog Saat.pdb

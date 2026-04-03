@@ -1,0 +1,10 @@
+D:\Görsel Programlama\Görsel Programlama Hafta 6 Not Defteri\bin\Debug\Görsel Programlama Hafta 6 Not Defteri.exe.config
+D:\Görsel Programlama\Görsel Programlama Hafta 6 Not Defteri\bin\Debug\Görsel Programlama Hafta 6 Not Defteri.exe
+D:\Görsel Programlama\Görsel Programlama Hafta 6 Not Defteri\bin\Debug\Görsel Programlama Hafta 6 Not Defteri.pdb
+D:\Görsel Programlama\Görsel Programlama Hafta 6 Not Defteri\obj\Debug\Görsel Programlama Hafta 6 Not Defteri.csproj.AssemblyReference.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 6 Not Defteri\obj\Debug\Görsel_Programlama_Hafta_6_Not_Defteri.Form1.resources
+D:\Görsel Programlama\Görsel Programlama Hafta 6 Not Defteri\obj\Debug\Görsel_Programlama_Hafta_6_Not_Defteri.Properties.Resources.resources
+D:\Görsel Programlama\Görsel Programlama Hafta 6 Not Defteri\obj\Debug\Görsel Programlama Hafta 6 Not Defteri.csproj.GenerateResource.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 6 Not Defteri\obj\Debug\Görsel Programlama Hafta 6 Not Defteri.csproj.CoreCompileInputs.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 6 Not Defteri\obj\Debug\Görsel Programlama Hafta 6 Not Defteri.exe
+D:\Görsel Programlama\Görsel Programlama Hafta 6 Not Defteri\obj\Debug\Görsel Programlama Hafta 6 Not Defteri.pdb

@@ -1,0 +1,10 @@
+D:\Görsel Programlama\Görsel Programlama Hafta 2\bin\Debug\Görsel Programlama Hafta 2.exe.config
+D:\Görsel Programlama\Görsel Programlama Hafta 2\bin\Debug\Görsel Programlama Hafta 2.exe
+D:\Görsel Programlama\Görsel Programlama Hafta 2\bin\Debug\Görsel Programlama Hafta 2.pdb
+D:\Görsel Programlama\Görsel Programlama Hafta 2\obj\Debug\Görsel Programlama Hafta 2 (Eşleştirme Oyunu).csproj.AssemblyReference.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 2\obj\Debug\Görsel_Programlama_Hafta_2.Form1.resources
+D:\Görsel Programlama\Görsel Programlama Hafta 2\obj\Debug\Görsel_Programlama_Hafta_2.Properties.Resources.resources
+D:\Görsel Programlama\Görsel Programlama Hafta 2\obj\Debug\Görsel Programlama Hafta 2 (Eşleştirme Oyunu).csproj.GenerateResource.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 2\obj\Debug\Görsel Programlama Hafta 2 (Eşleştirme Oyunu).csproj.CoreCompileInputs.cache
+D:\Görsel Programlama\Görsel Programlama Hafta 2\obj\Debug\Görsel Programlama Hafta 2.exe
+D:\Görsel Programlama\Görsel Programlama Hafta 2\obj\Debug\Görsel Programlama Hafta 2.pdb
